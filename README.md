@@ -2,6 +2,7 @@
 
 Networking:-
 
+
 1. Write a client-server program using UDP connection. Exchange a message
 between client and server and close both sockets.
 2. Modify the UDP client-server program to handle multiple messages in a loop
@@ -24,6 +25,7 @@ received from the client.
 multiplexing.
 
 
+
 File Handling:-
 
 1. Write a C program to open a text file and read the first 10 bytes.
@@ -36,6 +38,7 @@ File Handling:-
 8. Write a C program to copy the contents of one file to another.
 9. Write a C program to count the number of lines in a text file.
 10. Write a C program to check if a file exists before attempting to open it.
+
 
 
 
@@ -53,6 +56,7 @@ File Permissions and Commands:-
 10. Write a ZSH script to create a backup of a directory.
 
 
+
 System Calls and IPC:-
 
 1. Write a C program to illustrate the concept of dup system call.
@@ -65,6 +69,7 @@ System Calls and IPC:-
 8. Write a C program to demonstrate IPC using semaphores.
 9. Write a C program to create a child process that runs a different programusing exec().
 10. Write a C program to handle the SIGINT signal and print a message when it is recieved
+
 
 
 Text Processing:-
